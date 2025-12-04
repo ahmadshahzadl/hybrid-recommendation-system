@@ -14,9 +14,10 @@ This project adheres to [Semantic Versioning](https://semver.org/) and follows t
 - Tidy structure and naming across `src` modules
 
 ### Breaking Changes
+
 - None
 
 ### Upgrade Notes
+
 - Install dependencies: `pip install -r requirements.txt`
 - See `docs/GETTING_STARTED.md` for usage and examples
-
